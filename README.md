@@ -15,6 +15,7 @@ So, lets start off with some basic techniques:
 *  Search over Internet.
 * Read and Go through Fundamentals
 > You are not wrong it's just you are not right yet.
+
 ###Don't Give up!
 Perseverance pays off. Relax. You can do it.
 
