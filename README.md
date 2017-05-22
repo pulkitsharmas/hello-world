@@ -1,6 +1,7 @@
 ### Hello Pulkit
 You must be tangled with the indentations and the tags. Feeling painful, huh? But believe me, you can make it.
->Silent seas never made good sailors.
+> Silent seas never made good sailors.
+
 Remember the first day when you just landed with your first static web page, that you created for your cat and it's pictures.
 Yes! that's right you just need that **enthusiasm** back!
 Bring back the confidence
